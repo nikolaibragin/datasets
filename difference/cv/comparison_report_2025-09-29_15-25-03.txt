@@ -1,0 +1,40 @@
+Отчет об анализе списков по общим ключам
+===========================================
+Дата создания: 2025-09-29 15:25:03
+Файл 1: cv_nearest_neighbors_results_all_with_distnr.json
+Файл 2: cv_nearest_neighbors_results_all_without_distnr.json
+===========================================
+
+Анализ для 4 общих ключей:
+----------------------------------------
+Ключ: ZTF18aajwgru
+----------------------------------------
+  [+] Пересечение (10 эл.): ['ZTF18aajgtjr', 'ZTF19abtnqdj', 'ZTF20aaozusw', 'ZTF20ablevik', 'ZTF21abqscdd', 'ZTF21acdvtmq', 'ZTF22abkewft', 'ZTF23aaefwuc', 'ZTF24abalazn', 'ZTF24ablpgzn']
+  [1] Только в 'cv_nearest_neighbors_results_all_with_distnr.json' (0 эл.): []
+  [2] Только в 'cv_nearest_neighbors_results_all_without_distnr.json' (0 эл.): []
+  [%] Процент пересечения: 100.00%
+
+----------------------------------------
+Ключ: ZTF18abigrzf
+----------------------------------------
+  [+] Пересечение (8 эл.): ['ZTF17aaaazpg', 'ZTF18abclsrz', 'ZTF18abirbon', 'ZTF18ablqmrk', 'ZTF18absqjju', 'ZTF18absutld', 'ZTF20aaithky', 'ZTF20acpcjek']
+  [1] Только в 'cv_nearest_neighbors_results_all_with_distnr.json' (2 эл.): ['ZTF18abnowzp', 'ZTF23aambeoi']
+  [2] Только в 'cv_nearest_neighbors_results_all_without_distnr.json' (2 эл.): ['ZTF18abdrmzl', 'ZTF23aacsysw']
+  [%] Процент пересечения: 66.67%
+
+----------------------------------------
+Ключ: ZTF18aboacjl
+----------------------------------------
+  [+] Пересечение (10 эл.): ['ZTF17aaajeks', 'ZTF18aazsdnv', 'ZTF18ablxnta', 'ZTF18abmbdgo', 'ZTF18abpptwd', 'ZTF18absnnsr', 'ZTF18abwbjjy', 'ZTF18abwsres', 'ZTF20acwtodw', 'ZTF25aabxbwg']
+  [1] Только в 'cv_nearest_neighbors_results_all_with_distnr.json' (0 эл.): []
+  [2] Только в 'cv_nearest_neighbors_results_all_without_distnr.json' (0 эл.): []
+  [%] Процент пересечения: 100.00%
+
+----------------------------------------
+Ключ: ZTF18adibadz
+----------------------------------------
+  [+] Пересечение (10 эл.): ['ZTF17aaadpbl', 'ZTF17aabumlb', 'ZTF18aawbjux', 'ZTF18aayeany', 'ZTF18abinrqm', 'ZTF18ablwzkz', 'ZTF18abmaifq', 'ZTF18abmnmuw', 'ZTF18adljdzj', 'ZTF18admfxgo']
+  [1] Только в 'cv_nearest_neighbors_results_all_with_distnr.json' (0 эл.): []
+  [2] Только в 'cv_nearest_neighbors_results_all_without_distnr.json' (0 эл.): []
+  [%] Процент пересечения: 100.00%
+

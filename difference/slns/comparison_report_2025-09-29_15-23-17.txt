@@ -1,0 +1,48 @@
+Отчет об анализе списков по общим ключам
+===========================================
+Дата создания: 2025-09-29 15:23:17
+Файл 1: slns_nearest_neighbors_results_all_with_distnr.json
+Файл 2: slns_nearest_neighbors_results_all_without_distnr.json
+===========================================
+
+Анализ для 5 общих ключей:
+----------------------------------------
+Ключ: ZTF23aanptpp
+----------------------------------------
+  [+] Пересечение (8 эл.): ['ZTF18abwcqlc', 'ZTF19aaiklvu', 'ZTF19abdqbqg', 'ZTF20aalrkvr', 'ZTF21abcwoas', 'ZTF22aaonfhr', 'ZTF23aangpza', 'ZTF23aauyrzf']
+  [1] Только в 'slns_nearest_neighbors_results_all_with_distnr.json' (2 эл.): ['ZTF19adcfxws', 'ZTF22abnvkkc']
+  [2] Только в 'slns_nearest_neighbors_results_all_without_distnr.json' (2 эл.): ['ZTF18aahsvpl', 'ZTF23abudunn']
+  [%] Процент пересечения: 66.67%
+
+----------------------------------------
+Ключ: ZTF23abcvbqq
+----------------------------------------
+  [+] Пересечение (2 эл.): ['ZTF22aammxks', 'ZTF24abufijf']
+  [1] Только в 'slns_nearest_neighbors_results_all_with_distnr.json' (8 эл.): ['ZTF21aaylory', 'ZTF23aahzjll', 'ZTF23aaldhhd', 'ZTF23aaoyoad', 'ZTF23abkdyfw', 'ZTF24aaovbch', 'ZTF24abpylma', 'ZTF24abynjgb']
+  [2] Только в 'slns_nearest_neighbors_results_all_without_distnr.json' (8 эл.): ['ZTF18aayfboa', 'ZTF19aascals', 'ZTF19aasfzfd', 'ZTF19aayoeuz', 'ZTF19adgiqoi', 'ZTF21abrchze', 'ZTF22abnnalj', 'ZTF24aadlpxv']
+  [%] Процент пересечения: 11.11%
+
+----------------------------------------
+Ключ: ZTF24abvftmi
+----------------------------------------
+  [+] Пересечение (7 эл.): ['ZTF18abcbsbw', 'ZTF19aboyjux', 'ZTF23aaczzdi', 'ZTF23aafsnqj', 'ZTF23aaxizby', 'ZTF23aaxvqbe', 'ZTF24abpwwcs']
+  [1] Только в 'slns_nearest_neighbors_results_all_with_distnr.json' (3 эл.): ['ZTF23aapixxt', 'ZTF23abhsjed', 'ZTF24abiddqw']
+  [2] Только в 'slns_nearest_neighbors_results_all_without_distnr.json' (3 эл.): ['ZTF23aatqpct', 'ZTF23abawmwd', 'ZTF25aawvfqi']
+  [%] Процент пересечения: 53.85%
+
+----------------------------------------
+Ключ: ZTF25aaixrfr
+----------------------------------------
+  [+] Пересечение (1 эл.): ['ZTF23aadwaiz']
+  [1] Только в 'slns_nearest_neighbors_results_all_with_distnr.json' (9 эл.): ['ZTF23aafmrth', 'ZTF23aaiywai', 'ZTF23aaquiij', 'ZTF23aasoaqh', 'ZTF23aazqfzj', 'ZTF23abawsji', 'ZTF24aaovbch', 'ZTF25aarzwsr', 'ZTF25abbflmb']
+  [2] Только в 'slns_nearest_neighbors_results_all_without_distnr.json' (9 эл.): ['ZTF21abwhbvx', 'ZTF23aadvoyh', 'ZTF23aafqmlo', 'ZTF23abjrerh', 'ZTF23ablomyj', 'ZTF24aahfiir', 'ZTF24aavexih', 'ZTF24aaybyaw', 'ZTF25aazyfpa']
+  [%] Процент пересечения: 5.26%
+
+----------------------------------------
+Ключ: ZTF25aanxtou
+----------------------------------------
+  [+] Пересечение (4 эл.): ['ZTF23aapvusk', 'ZTF23abhvzbm', 'ZTF24aauvywv', 'ZTF24aaxlnuv']
+  [1] Только в 'slns_nearest_neighbors_results_all_with_distnr.json' (6 эл.): ['ZTF18aaczmob', 'ZTF23aanajbf', 'ZTF23aapgjtm', 'ZTF23aavvsrq', 'ZTF23aaxyawz', 'ZTF24aatwwpj']
+  [2] Только в 'slns_nearest_neighbors_results_all_without_distnr.json' (6 эл.): ['ZTF23aalajai', 'ZTF23abiwmew', 'ZTF24aahiasq', 'ZTF24aamijxq', 'ZTF25aaqyako', 'ZTF25aaxqjgy']
+  [%] Процент пересечения: 25.00%
+

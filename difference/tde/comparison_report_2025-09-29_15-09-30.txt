@@ -1,0 +1,24 @@
+Отчет об анализе списков по общим ключам
+===========================================
+Дата создания: 2025-09-29 15:09:30
+Файл 1: tde_nearest_neighbors_results_all_with_distnr.json
+Файл 2: tde_nearest_neighbors_results_all_without_distnr.json
+===========================================
+
+Анализ для 2 общих ключей:
+----------------------------------------
+Ключ: ZTF24aamfius
+----------------------------------------
+  [+] Пересечение (10 эл.): ['ZTF19aamivpr', 'ZTF19abdkdrj', 'ZTF20abmkioz', 'ZTF20abnoawq', 'ZTF21aacvesu', 'ZTF21abjrmed', 'ZTF21abyalnb', 'ZTF22aavverq', 'ZTF24aaqtylr', 'ZTF24abwdeuc']
+  [1] Только в 'tde_nearest_neighbors_results_all_with_distnr.json' (0 эл.): []
+  [2] Только в 'tde_nearest_neighbors_results_all_without_distnr.json' (0 эл.): []
+  [%] Процент пересечения: 100.00%
+
+----------------------------------------
+Ключ: ZTF24abfaake
+----------------------------------------
+  [+] Пересечение (9 эл.): ['ZTF18abdqopl', 'ZTF18abqvwgc', 'ZTF18acnbpmj', 'ZTF19aalcear', 'ZTF20abgficu', 'ZTF20acjkcxh', 'ZTF21abryplq', 'ZTF24abimtdl', 'ZTF24abqaeai']
+  [1] Только в 'tde_nearest_neighbors_results_all_with_distnr.json' (1 эл.): ['ZTF25aaqfbvf']
+  [2] Только в 'tde_nearest_neighbors_results_all_without_distnr.json' (1 эл.): ['ZTF18ablsyos']
+  [%] Процент пересечения: 81.82%
+
