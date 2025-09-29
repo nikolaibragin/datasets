@@ -1,0 +1,24 @@
+Отчет об анализе списков по общим ключам
+===========================================
+Дата создания: 2025-09-29 16:19:44
+Файл 1: tde_nearest_neighbors_results_all_without_mean_variance_r.json
+Файл 2: tde_nearest_neighbors_results_all_with_mean_variance_r.json
+===========================================
+
+Анализ для 2 общих ключей:
+----------------------------------------
+Ключ: ZTF24aamfius
+----------------------------------------
+  [+] Пересечение (98 эл.): ['ZTF18aamoklo', 'ZTF19aaaggtq', 'ZTF19aaczych', 'ZTF19aalcstg', 'ZTF19aamivpr', 'ZTF19aapgbls', 'ZTF19aascttn', 'ZTF19aaserwt', 'ZTF19aasfbop', 'ZTF19aaulqmz', 'ZTF19aavpmdr', 'ZTF19aawfwtz', 'ZTF19aazfjdq', 'ZTF19abbbvja', 'ZTF19abdkdrj', 'ZTF19abjarts', 'ZTF19abnnwfg', 'ZTF19abuoihb', 'ZTF19abuyqcy', 'ZTF19addccpx', 'ZTF19adhduzp', 'ZTF20aaicidh', 'ZTF20aattris', 'ZTF20abaobsn', 'ZTF20abarkej', 'ZTF20abbasbe', 'ZTF20abchlaz', 'ZTF20abcoopc', 'ZTF20abgbhpe', 'ZTF20abgdsam', 'ZTF20abhfvst', 'ZTF20ablhygh', 'ZTF20abmdmio', 'ZTF20abmeelk', 'ZTF20abmkioz', 'ZTF20abnoawq', 'ZTF20abrnrcd', 'ZTF20abthpzv', 'ZTF20acliwip', 'ZTF20aclxgtz', 'ZTF20acpmoct', 'ZTF21aabhtpt', 'ZTF21aacvesu', 'ZTF21aasxysy', 'ZTF21aavhgnl', 'ZTF21aawppff', 'ZTF21aazywsl', 'ZTF21abagydi', 'ZTF21abbnrbc', 'ZTF21abdbcqq', 'ZTF21abeamur', 'ZTF21abjrmed', 'ZTF21abjrwbm', 'ZTF21abkfuvk', 'ZTF21abwfrce', 'ZTF21abwrfih', 'ZTF21abwunkj', 'ZTF21abxcppt', 'ZTF21abyalnb', 'ZTF21abyvttu', 'ZTF21acjtwzc', 'ZTF21aclkmec', 'ZTF21acnqxeu', 'ZTF21acqiqhu', 'ZTF22aaesqnm', 'ZTF22aafugmq', 'ZTF22aahzgte', 'ZTF22aakruil', 'ZTF22aamrzpt', 'ZTF22aanewfb', 'ZTF22aartept', 'ZTF22aasjmvp', 'ZTF22aavverq', 'ZTF22abgddrr', 'ZTF23aahimjk', 'ZTF23aaorenb', 'ZTF23aaovybw', 'ZTF23aapgfwo', 'ZTF23aaumfcb', 'ZTF23aautsho', 'ZTF23aaxbini', 'ZTF23aaxcesa', 'ZTF23abbodgy', 'ZTF23abetcud', 'ZTF23abtdwhg', 'ZTF24aaqtylr', 'ZTF24aaykbqd', 'ZTF24abiovfh', 'ZTF24abkkdjz', 'ZTF24abwdeuc', 'ZTF25aagqzjq', 'ZTF25aapkacg', 'ZTF25aatcixa', 'ZTF25aawtgfg', 'ZTF25ababfkg', 'ZTF25abafyzl', 'ZTF25abcfjis', 'ZTF25abcxqyt']
+  [1] Только в 'tde_nearest_neighbors_results_all_without_mean_variance_r.json' (2 эл.): ['ZTF19abheqha', 'ZTF24aanhqxy']
+  [2] Только в 'tde_nearest_neighbors_results_all_with_mean_variance_r.json' (2 эл.): ['ZTF19adgzoog', 'ZTF23aaxybri']
+  [%] Процент пересечения: 96.08%
+
+----------------------------------------
+Ключ: ZTF24abfaake
+----------------------------------------
+  [+] Пересечение (98 эл.): ['ZTF18aaijwki', 'ZTF18aalrcie', 'ZTF18aarawyq', 'ZTF18aauaxon', 'ZTF18aaufkss', 'ZTF18aawozxo', 'ZTF18aaxloym', 'ZTF18aaxrotf', 'ZTF18aaxzcvd', 'ZTF18aazeorq', 'ZTF18abdqopl', 'ZTF18abehiur', 'ZTF18ablsyos', 'ZTF18abnwvqf', 'ZTF18abqvwgc', 'ZTF18abshwxh', 'ZTF18abxqwsv', 'ZTF18abxyrms', 'ZTF18acnbpmj', 'ZTF18acwwbtf', 'ZTF18adcbfqj', 'ZTF18adistve', 'ZTF18adljxub', 'ZTF19aadgkbi', 'ZTF19aaipgav', 'ZTF19aalcear', 'ZTF19aalfexk', 'ZTF19aanxqch', 'ZTF19aanyoww', 'ZTF19aanyozn', 'ZTF19aapeijh', 'ZTF19aarslwz', 'ZTF19aasbylg', 'ZTF19aascdlf', 'ZTF19aasffao', 'ZTF19aasmyge', 'ZTF19aatosdy', 'ZTF19aawfewz', 'ZTF19aawtgsz', 'ZTF19aazgsai', 'ZTF19abilypd', 'ZTF19abjblva', 'ZTF19abydlkm', 'ZTF19acmbnzz', 'ZTF19acxqcpo', 'ZTF19adddwla', 'ZTF19adkjqju', 'ZTF20aadcbxl', 'ZTF20aafxfxv', 'ZTF20aakzawf', 'ZTF20aaozrmv', 'ZTF20aawgtel', 'ZTF20aaxxhkk', 'ZTF20abakqhp', 'ZTF20abdvztt', 'ZTF20abgficu', 'ZTF20ablysaw', 'ZTF20abmbvyu', 'ZTF20acjkcxh', 'ZTF21aacnbcn', 'ZTF21aagjsrl', 'ZTF21aajtrdf', 'ZTF21aamxxyu', 'ZTF21aaoweuj', 'ZTF21abaawue', 'ZTF21abryplq', 'ZTF21abtnxfy', 'ZTF21acdwahm', 'ZTF21acetyfj', 'ZTF22aadmpdy', 'ZTF22aafwjto', 'ZTF22aahwmmc', 'ZTF22aaijawz', 'ZTF22abghcna', 'ZTF22abicyyh', 'ZTF23aaezcun', 'ZTF23aafmzks', 'ZTF23aagveja', 'ZTF23aahiosg', 'ZTF23aajslub', 'ZTF23abfapbj', 'ZTF23abfzbwx', 'ZTF23ablzojk', 'ZTF23abwcrat', 'ZTF24aaikmor', 'ZTF24aamoeod', 'ZTF24aarpdog', 'ZTF24aaxzvia', 'ZTF24abelgwg', 'ZTF24abfpdqm', 'ZTF24abimtdl', 'ZTF24abjfuew', 'ZTF24abqaeai', 'ZTF24abyjsst', 'ZTF25aaivcaj', 'ZTF25aaqfbvf', 'ZTF25aaylisx', 'ZTF25abbymbh']
+  [1] Только в 'tde_nearest_neighbors_results_all_without_mean_variance_r.json' (2 эл.): ['ZTF18aawttuc', 'ZTF19aaapjim']
+  [2] Только в 'tde_nearest_neighbors_results_all_with_mean_variance_r.json' (2 эл.): ['ZTF18abslngg', 'ZTF25aanfdbz']
+  [%] Процент пересечения: 96.08%
+
